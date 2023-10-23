@@ -1,0 +1,59 @@
+.desc{
+    /* border: 2px solid rgb(0, 255, 42); */
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    padding: 50px 84px 50px 84px;
+    margin-right: 35px;
+}
+/* .about{
+    border: 2px solid red;
+    width: 1299px;
+}
+.wrapper{
+    border: 2px solid rgb(89, 0, 255);
+} */
+.header-container-about{
+    /* border: 2px solid rgb(110, 175, 228); */
+    height: 85vh;
+}
+.skills{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    margin-left:84px;
+    margin-top: 2rem;
+}
+/* .names{
+    border: 2px solid green;
+    padding-right: 76px;
+    
+} */
+.out{
+    display: inline-block;
+    /* border: 2px solid rgb(128, 0, 0); */
+}
+.inside{
+    
+    /* display: inline-block; */
+    width: 237px;
+    height: 60px;
+
+    background: #FFFFFF;
+    border: 1px solid #47CCCC;
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    display: flex;
+    /* display: grid; */
+    align-items: center;
+    justify-content: center;
+    margin: 18px 18px 18px 0px;
+}
+.inside:hover{
+    background-color: #47CCCC;
+}

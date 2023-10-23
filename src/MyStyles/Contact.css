@@ -1,0 +1,50 @@
+
+.logo1{
+    height: 258px;
+    position: absolute;
+    left: 74.62%;
+    right: -10.16%;
+    top: -5.91%;
+    bottom: 50.65%;
+}
+.logo2{
+
+   
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: -51px;
+    top: 438px;
+
+}
+
+.logo3{
+    height: 258px;
+    position: absolute;
+    left: 74.62%;
+    right: -10.16%;
+    top: 63.09%;
+    bottom: 50.65%;
+    
+}
+
+
+
+
+
+
+.personal{
+    display: inline-block;
+    margin-left: 23px;
+}
+.flexx{
+    display: flex;
+    align-items: center;
+    margin-bottom: 23px;
+}
+.wrapper-contact{
+    margin-left: 84px;
+    width: 81rem;
+    margin-top: 58px;
+
+}
